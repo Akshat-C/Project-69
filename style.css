@@ -21,3 +21,10 @@ img {
 .bg-primary i {
     float: right;
 }
+.bg-primary {
+    font-size: 18px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+}
